@@ -1,0 +1,17 @@
+body{
+  background:url(https://images.unsplash.com/photo-1494548162494-384bba4ab999?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c3VucmlzZXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+h2{
+  color:red;
+  background:yellow;
+}
+.Firstdiv{
+  color:pink;
+  background:url(https://images.theconversation.com/files/223729/original/file-20180619-126566-1jxjod2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop);
+}
+.Seconddiv{
+  color:rgba(72,6,3,0.5);
+  background:#03fc88;
+}

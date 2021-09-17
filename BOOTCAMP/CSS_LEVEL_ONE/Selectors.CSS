@@ -1,0 +1,33 @@
+body{
+  background-image:url(https://www.infinitecourses.com/admin/RelatedImages/Institutes/634632781339207747_Kalpataru%20Institute%20of%20Technology.jpeg);
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+h1{
+  color:red;
+  background-color:yellow;
+  border:red;
+  border-width:thick;
+  border-style:groove;
+}
+#CSE{
+  color:violet;
+  background-color:aqua;
+  border:red;
+  border-width:thick;
+  border-style:dotted;
+}
+#ISE{
+  color:orange;
+  background_color:grey;
+  border:tomato;
+  border-width:thick;
+  border-style:dashed;
+}
+p{
+  color:dodgerblue;
+  background-color:pink;
+}
+a{
+  background-color:mediumseagreen;
+}

@@ -1,0 +1,14 @@
+h1{
+  color:#fc0b03;
+  background:rgba(0,255,255,0.5);
+}
+body{
+  background:url(https://images.theconversation.com/files/223729/original/file-20180619-126566-1jxjod2.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop)
+}
+div{
+  color:blue;
+  background-color:rgba(242,107,10,0.5);
+  border:solid red;
+  border_width:5;
+  border_style:5;
+}
